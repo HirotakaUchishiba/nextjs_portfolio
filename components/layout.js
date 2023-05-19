@@ -3,8 +3,8 @@ import Head from "next/head";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Shin Code";
-export const siteTitle = "Next.js Blog";
+const name = "内芝 弘尭";
+export const siteTitle = "My Portfolio";
 
 function Layout({ children, home }) {
   return (
